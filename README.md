@@ -1,3 +1,6 @@
+
+## Problem Statement Title : Graphical Password Authentication  
+
 ![0](https://github.com/Naman-sharma00100/Graphical-Password-Authentication-System/assets/84118525/b60c1579-30f4-4699-8053-69547355873c)
 
 
@@ -20,24 +23,3 @@ Overall, GPA presents an innovative approach to password management, emphasizing
 ![3](https://github.com/Naman-sharma00100/Graphical-Password-Authentication-System/assets/84118525/bfbdbd6d-fbc3-4ed2-9ea3-cf66d124d987)
 
 
-
----
-Problem Statement Title : Graphical Password Authentication  
-PS Number : DR705 
-Orgainzation : All India Council for Technical Education (AICTE). 
-Domain Bucket : Blockchain & Cybersecurity
----
-
-
-## Contributors
-
-This project was made possible thanks to the contributions of the following individuals:
-
-- [Naman Sharma](https://github.com/Naman-sharma00100) - *Security implementation and Testing*
-- [Harshit Paneri](https://github.com/harshit-paneri) - *Frontend development*
-- [Somya Champawat](https://github.com/username3) - *Project management*
-- [Hanshika Mehta](https://github.com/username4) - *Frontend development*
-- [Asim Ali](https://github.com/username5) - *Database Management*
-- [Priyanshu Arora](https://github.com/username6) - *Back-end development*
-
-A special thanks to all the contributors for their hard work and dedication in bringing this project to life. Without their efforts, this project would not have been possible.
